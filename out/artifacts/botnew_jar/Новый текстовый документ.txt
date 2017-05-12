@@ -1,0 +1,5 @@
+Exception in thread "Thread-1" java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+        at java.util.ArrayList.rangeCheck(Unknown Source)
+        at java.util.ArrayList.get(Unknown Source)
+        at Convert.Convert.DialogConvert(Convert.java:39)
+        at Dialog.Dialog.run(Dialog.java:25)
